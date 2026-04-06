@@ -1,110 +1,206 @@
+<div align="center">
+
 # Hashi.AI Dev
 
-**Repo-native AI tooling, agent workflows, and execution systems for serious builders.**
+### Repo-native AI tooling, agent workflows, and execution systems for serious builders.
 
-Hashi.AI Dev is an open builder lab focused on practical infrastructure for AI-native development.  
-The goal is simple: build tools that help turn ideas, repos, and agent output into **focused execution, bounded scope, and real proof**.
+<p>
+  <a href="mailto:hashiai.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-hashiai.dev%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Repo--Native%20AI-111111?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Workflow-Agent%20Systems-111111?style=for-the-badge&logo=git&logoColor=white" alt="Workflow" />
+  <img src="https://img.shields.io/badge/Philosophy-Proof%20Over%20Motion-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Philosophy" />
+</p>
 
-We care about systems that are:
-- local-first when possible
-- practical over theatrical
-- repo-native instead of chat-only
-- designed for real builders, not just demos
-- honest about scope, drift, and tradeoffs
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-Building%20in%20Public-1f1f1f?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Local--First-When%20It%20Makes%20Sense-1f1f1f?style=flat-square" alt="Local First" />
+  <img src="https://img.shields.io/badge/Practical-Over%20Performative-1f1f1f?style=flat-square" alt="Practical Over Performative" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## What this org is
+
+</div>
+
+**Hashi.AI Dev** is an open builder lab focused on practical infrastructure for AI-native development.
+
+We build systems that help turn:
+
+- ideas
+- repos
+- agent output
+- scattered decisions
+- execution chaos
+
+into:
+
+- bounded work
+- clear mission scope
+- reviewable progress
+- real proof
+- practical tools builders can actually use
+
+This org is not here to be an “AI everything” brand.  
+It exists to ship **repo-native, operator-grade tools** for serious builders.
 
 ---
 
-## What we work on
+<div align="center">
 
-Hashi.AI Dev focuses on:
+## Core focus
 
-- **Repo-native AI tooling**
-- **Agent workflows**
-- **Mission governance**
-- **Local-first development systems**
-- **Execution infrastructure for solo builders**
-- **Practical operator tooling for AI-native work**
+</div>
 
-This org is not meant to be a hype shell or a generic “AI everything” brand.  
-It exists to ship tools that make advanced AI-assisted building more structured, more usable, and more real.
+<table align="center">
+  <tr>
+    <td width="33%" valign="top" align="center">
+
+### 🧠 Repo-native tooling
+Tools that live close to the codebase, not just in chat.
+
+  </td>
+    <td width="33%" valign="top" align="center">
+
+### ⚙️ Agent workflows
+Structured workflows for modern AI-native development.
+
+  </td>
+    <td width="33%" valign="top" align="center">
+
+### 🎯 Mission governance
+Systems that reduce sprawl, drift, and fake progress.
+
+  </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+
+### 🖥️ Local-first systems
+Practical infrastructure that does not assume cloud-first by default.
+
+  </td>
+    <td width="33%" valign="top" align="center">
+
+### 📦 Execution infrastructure
+Builder tools that emphasize proof, continuity, and usable output.
+
+  </td>
+    <td width="33%" valign="top" align="center">
+
+### 🧭 Operator mindset
+Less theater. More clarity, control, and disciplined shipping.
+
+  </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## Current direction
 
-Our current direction centers on tools and systems that help answer questions like:
+</div>
+
+At the center of this org is a simple belief:
+
+> The next important layer in AI-native building is not just another agent.  
+> It is the governance layer above agents.
+
+That means building systems that answer:
 
 - What are we actually building?
 - What is in scope right now?
 - What counts as proof?
 - What is drift?
-- How do we keep powerful coding agents pointed at one real outcome?
-
-That is the thinking behind projects like **SPINE** and the broader workflow philosophy behind Hashi.AI Dev.
+- What should be cut, delayed, or killed?
 
 ---
 
-## Projects
+<div align="center">
 
-### SPINE
+## Flagship project
+
+</div>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="100%">
+
+### SPINE  
 **Strategic Proof & Intelligent Navigation Engine**
 
 A repo-native mission governor for AI-native solo builders.
 
 SPINE is built to help govern:
+
 - project sprawl
 - silent scope expansion
 - repo drift
 - scattered decisions
 - weak continuity between planning, execution, and review
 
-It is not another coding agent.  
+SPINE is **not** another coding agent.  
 It is the governance layer above coding agents.
 
-### More projects
-Additional tools, experiments, and execution systems will live here as they become real enough to deserve public space.
-
-This org is intended to hold projects that are:
-- technically serious
-- operationally useful
-- aligned with the Hashi.AI Dev thesis
+  </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## Principles
 
-We build with a few core principles in mind:
+</div>
 
-### 1. Repo first, UI second
-The repo is the real operating surface.  
-Interfaces matter, but the foundation matters more.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-### 2. Proof over activity
-Motion is not enough.  
-A system should help create evidence, decisions, and actual progress — not just more output.
+- **Repo first, UI second**
+- **Proof over activity**
+- **Practical over performative**
+- **Strong scope beats vague ambition**
 
-### 3. Practical beats performative
-We are more interested in usable tools than flashy demos, agent theater, or vague promises.
+    </td>
+    <td width="50%" valign="top">
 
-### 4. Local-first where it makes sense
-Not everything should require cloud dependence, hidden services, or permanent online assumptions.
+- **Local-first where it makes sense**
+- **Systems should reduce drift**
+- **Builder utility over hype**
+- **Real workflows over demos**
 
-### 5. Scope matters
-Strong systems need boundaries.  
-We care about clear mission definitions, explicit tradeoffs, and avoiding silent product drift.
+    </td>
+  </tr>
+</table>
 
 ---
 
+<div align="center">
+
 ## Who this is for
 
-Hashi.AI Dev is for builders who:
-- use AI as real leverage, not just novelty
-- think in systems, repos, workflows, and tools
-- want more than another chat wrapper
-- care about execution, not just ideation
-- want practical infrastructure for AI-native development
+</div>
 
-This is especially aimed at:
+Hashi.AI Dev is for builders who:
+
+- use AI as real leverage, not just novelty
+- think in repos, systems, workflows, and tools
+- want more than another wrapper around a model
+- care about execution quality, not just ideation
+- want practical infrastructure for AI-native work
+
+Especially:
+
 - solo builders
 - operator-minded developers
 - repo-native AI users
@@ -112,52 +208,115 @@ This is especially aimed at:
 
 ---
 
-## Collaboration
+<div align="center">
 
-We are open to:
-- thoughtful feedback
-- issues and bug reports
-- discussion around repo-native tooling
-- practical ideas that make these systems more useful
+## Project standard
 
-We are **not** optimizing for random feature sprawl, trend chasing, or bloated roadmaps.
+</div>
+
+Repositories that live here should aim to be:
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+
+### 🧱 Serious  
+Technically grounded
+
+  </td>
+    <td align="center" width="25%">
+
+### 🔍 Useful  
+Operationally real
+
+  </td>
+    <td align="center" width="25%">
+
+### 🧭 Aligned  
+On-thesis for the org
+
+  </td>
+    <td align="center" width="25%">
+
+### 🚀 Sharpening  
+Getting better over time
+
+  </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## Contact
 
-**Email:** hashiai.dev@gmail.com
+</div>
 
-For collaboration, questions, or project-related contact, use the email above.
+<div align="center">
+
+**Email:** [hashiai.dev@gmail.com](mailto:hashiai.dev@gmail.com)
+
+For collaboration, project-related questions, or serious inquiries, use the email above.
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Philosophy
 
-AI-native development is entering a stage where raw generation is no longer the only bottleneck.
+</div>
+
+AI-native development has reached a point where raw generation is no longer the only bottleneck.
 
 The harder problems now look more like:
-- coordination
-- scope control
-- continuity
-- proof
-- governance
-- execution quality
 
-Hashi.AI Dev exists to build in that layer.
+<table align="center">
+  <tr>
+    <td align="center" width="16%">coordination</td>
+    <td align="center" width="16%">scope control</td>
+    <td align="center" width="16%">continuity</td>
+    <td align="center" width="16%">proof</td>
+    <td align="center" width="16%">governance</td>
+    <td align="center" width="16%">execution quality</td>
+  </tr>
+</table>
+
+<div align="center">
+
+**Hashi.AI Dev exists to build in that layer.**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Status
 
+</div>
+
 This org is actively taking shape.
 
-Some projects here will be experimental.  
-Some will be rough early.  
-The standard is not “look finished from day one.”  
-The standard is: **be real, be useful, and keep getting sharper.**
+Some repos here will be early.  
+Some will be experimental.  
+The standard is not “look finished on day one.”
+
+The standard is:
+
+<div align="center">
+
+## Build real things. Make them useful. Keep sharpening them.
+
+</div>
 
 ---
 
+<div align="center">
+
 **Hashi.AI Dev**  
 Building practical systems for AI-native execution.
+
+</div>
