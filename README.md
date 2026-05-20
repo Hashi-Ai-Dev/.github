@@ -18,18 +18,17 @@ Open builder lab focused on **practical infrastructure** for AI-native developme
 |---|---|---|
 | **HermitDoc** | OSS knowledge-base agent with 230+ sections, 23 skills, and a full audit trail. MIT licensed. | Public · Stable |
 | **ClawDoc** | OpenClaw reference system with 523+ docs, 22 skills, and visual branding assets. | Public · Stable |
-| **SPINE** | Strategic Proof & Intelligent Navigation Engine — repo-native mission governor for solo builders. | Private · Incubation |
 
 ---
 
 ## Core Focus
 
 ```
-🧠 Repo-native tooling   →   Tools that live close to the codebase, not just in chat.
-⚙️  Agent workflows       →   Structured workflows for AI-native development.
-🎯  Mission governance     →   Systems that reduce sprawl, drift, and fake progress.
-🖥️  Local-first systems   →   Practical infrastructure that doesn't assume cloud-first.
-📦  Execution infrastructure → Builder tools that emphasize proof, continuity, and usable output.
+🧠 Repo-native tooling     →   Tools that live close to the codebase, not just in chat.
+⚙️  Agent workflows         →   Structured workflows for AI-native development.
+🎯  Mission governance       →   Systems that reduce sprawl, drift, and fake progress.
+🖥️  Local-first systems     →   Practical infrastructure that doesn't assume cloud-first.
+📦  Execution infrastructure →   Builder tools that emphasize proof, continuity, and usable output.
 ```
 
 ---
@@ -76,9 +75,9 @@ Repositories here aim to be:
 
 ```
 🧱 Serious       →  Technically grounded
-🔍 Useful        →  Operationally real
-🧭 Aligned       →  On-thesis for the org
-🚀 Sharpening    →  Getting better over time
+🔍 Useful       →  Operationally real
+🧭 Aligned      →  On-thesis for the org
+🚀 Sharpening   →  Getting better over time
 ```
 
 ---
@@ -90,13 +89,6 @@ Repositories here aim to be:
 For collaboration, project-related questions, or serious inquiries.
 
 ---
-
-## Status
-
-```
-[Public]    HermitDoc · ClawDoc
-[Private]   SPINE · and more
-```
 
 This org is actively taking shape. The standard is not "look finished on day one." The standard is:
 
